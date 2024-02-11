@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [react-food-delivery-app](https://gopaljohari93.github.io/food-delivery-app/)
 
-- 🌱 I’m currently learning **ReactJs, Angular 17**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopaljohari93](https://github.com/gopaljohari93)
 
