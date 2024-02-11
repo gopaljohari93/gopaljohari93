@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [react-food-delivery-app](https://gopaljohari93.github.io/food-delivery-app/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **React Js, React router v6, Redux toolkit, React bootstrap, Styled Components, Tailwind CSS, Sass, Framer Motion Animation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopaljohari93](https://github.com/gopaljohari93)
 
