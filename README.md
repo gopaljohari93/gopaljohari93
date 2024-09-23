@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaljohari93&label=Profile%20views&color=0e75b6&style=flat" alt="gopaljohari93" /> </p>
 
-- 🔭 I’m currently working on [react-food-delivery-app](https://rest-countries-api-project-prod.netlify.app/)
+- 🔭 I’m currently working on [REST Countries API Project](https://rest-countries-api-project-prod.netlify.app/)
 
 - 🌱 I’m currently learning **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API**
 
