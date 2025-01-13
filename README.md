@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gopaljohari.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gopal-johari.netlify.app/)
 
 - 💬 Ask me about **ReactJS, react router v6, redux toolkit**
 
