@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API, Node.Js, Express.Js, Database - SQL, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gopaljohari-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gopaljportfolio.netlify.app/)
 
 - 💬 Ask me about **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API**
 
