@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaljohari93&label=Profile%20views&color=0e75b6&style=flat" alt="gopaljohari93" /> </p>
 
-- 🔭 I’m currently working on [E-commerce Project](https://ecommerce-live-web.netlify.app/)
+- 🔭 I’m currently working on [E-commerce Project](https://webs-ecommerce.netlify.app/)
 
 - 🌱 I’m currently working **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API, Node.Js, Express.Js, Database - SQL, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gopaljohari-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gopaljohari.netlify.app/)
 
 - 💬 Ask me about **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API**
 
