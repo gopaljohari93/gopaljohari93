@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-commerce Project](https://webs-ecommerce.netlify.app/)
 
-- 🌱 I’m currently working **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API, Node.Js, Express.Js, Database - SQL, PostgreSQL**
+- 🌱 I’m currently working **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API, HTML5, CSS3, SCSS, JavaScript (ES6+), WordPress.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gopaljohari.netlify.app/)
 
