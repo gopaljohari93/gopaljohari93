@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Gopal Johari</h1>
-<h3 align="center">A passionate React Developer from India</h3>
+<h1 align="center">👋 Hi, I'm Gopal Johari</h1>
+<h3 align="center">🚀 React Developer | Frontend Engineer | UI-Focused Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaljohari93&label=Profile%20views&color=0e75b6&style=flat" alt="gopaljohari93" /> </p>
-
-- 🔭 I’m currently working on [E-commerce Project](https://e-shop-ecommerce-web.netlify.app/)
-
-- 🌱 I’m currently working **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API, HTML5, CSS3, SCSS, JavaScript (ES6+), WordPress.**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://gopaldev.netlify.app/)
-
-- 💬 Ask me about **React Js, React router v6, Redux toolkit, React Bootstrap, Styled Components, Tailwind, Sass, REST API**
-
-- 📫 How to reach me **gopaljohari007@gmail.com**
-
-- ⚡ Fun fact **I am happy to help**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gopal-johari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopal-johari/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopaljohari93&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  Passionate about building <b>modern, scalable, and high-performance web applications</b>  
+  with clean UI, smooth UX, and optimized React architectures.
+</p>
 
+---
 
+## 🚀 About Me
 
+- 🔭 Currently working on a **React-based E-commerce Project**  
+  👉 https://e-shop-ecommerce-web.netlify.app/
 
+- 🌱 Actively working with  
+  **React.js, React Router v6, Redux Toolkit, Tailwind CSS, React Bootstrap,  
+  Styled Components, Sass, REST APIs, JavaScript (ES6+), HTML5, CSS3, WordPress**
+
+- 👨‍💻 Explore all my projects here  
+  👉 **Portfolio:** https://gopaldev.netlify.app/
+
+- 💬 Ask me about  
+  **React.js, Redux Toolkit, Performance Optimization, UI Development**
+
+- 📫 Reach me at  
+  **📧 gopaljohari007@gmail.com**
+
+- ⚡ Fun fact  
+  **I genuinely enjoy helping others grow 🚀**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gopal-johari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
+</p>
+
+---
+
+## 📌 What I Focus On
+
+- ⚛️ Scalable React architecture & reusable components  
+- 🎯 Pixel-perfect UI from Figma to production  
+- ⚡ Performance optimization & clean code  
+- 📱 Fully responsive & accessible design  
+- 🧠 Continuous learning & best practices  
+
+---
+
+## 📈 Career Goal
+
+> Build impactful frontend experiences that are fast, accessible, and scalable  
+> while continuously growing as a React & UI Engineer.
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
+Let’s build something amazing together 🚀
