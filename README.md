@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Gopal Johari</h1>
-<h3 align="center">🚀 React Developer | Frontend Engineer | UI-Focused Builder</h3>
+<h3 align="center">🚀 React Developer | Frontend Developer | UI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gopaljohari93&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
